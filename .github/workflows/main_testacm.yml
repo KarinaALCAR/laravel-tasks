@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'testacm'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F21545BF3F5C49F9856B6C502F2223EE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E169ABF93AE54678B13A93EBE4204BDF }}
           package: .
